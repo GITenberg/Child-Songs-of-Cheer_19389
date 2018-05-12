@@ -1,0 +1,34 @@
+_repo: Child-Songs-of-Cheer_19389
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Inglis, Antoinette
+    birthdate: 1880
+    gutenberg_agent_id: '8640'
+    url: http://www.gutenberg.org/2009/agents/8640
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stein, Evaleen
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '8639'
+    url: http://www.gutenberg.org/2009/agents/8639
+description: ''
+gutenberg_bookshelf: Children's Verse
+gutenberg_issued: '2006-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19389'
+  lccn: '18017468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+title: Child Songs of Cheer
+url: http://www.gutenberg.org/ebooks/19389
